@@ -11,3 +11,11 @@ Find my CV here.
 
 This is a repository dedicated to showcase my skills, projects and to track my progress and development in the field of DATA.
 Below, you’ll find examples of my work in data analysis, visualization, and my commitment to continuous learning in this dynamic field.
+
+# Table of Content 
+
+# Portfolio Projects
+
+# Certificates
+
+# Contacts
