@@ -7,7 +7,7 @@ During my self-studies, i honed my ability to work with complex data and develop
 
 In my free time, i enjoy exploring new data analysis tools and techniques, and i am always looking for opportunities to expand my knowledge and skills. Whether working on  a team or independently, I am driven by the thrill of discovering new insight and the satisfaction of using data to solve complex problems.
 
-Find me CV here.
+Find my CV here.
 
 This is a repository dedicated to showcase my skills, projects and to track my progress and development in the field of DATA.
 Below, you’ll find examples of my work in data analysis, visualization, and my commitment to continuous learning in this dynamic field.
